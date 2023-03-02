@@ -6,3 +6,7 @@ Some description!
 what is your name
 
 #add akfdfkkss
+
+# local Development
+
+1. open index.html in your window
